@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'/Users/adnansamore/Documents/Monopoly/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/adnansamore/Documents/Monopoly/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Monopoly 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Monopoly 1.0-SNAPSHOT API'
+com.monopoly.monopoly
+/Users/adnansamore/Documents/Monopoly/src/main/java/.DS_Store = 1728552295394
+/Users/adnansamore/Documents/Monopoly/src/main/java = 1728552805240
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/tag-search-index.js = 1728553165216
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/overview-tree.html = 1728553165197
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/module-search-index.js = 1728553165214
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/index.html = 1728553165235
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/package-search-index.js = 1728553165214
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/link.svg = 1728553165245
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/index-all.html = 1728553165231
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/allpackages-index.html = 1728553165213
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/member-search-index.js = 1728553165215
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/copy.svg = 1728553165244
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/script.js = 1728553165243
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/stylesheet.css = 1728553165242
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/search-page.js = 1728553165250
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/help-doc.html = 1728553165239
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/element-list = 1728553165160
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/search.html = 1728553165233
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/allclasses-index.html = 1728553165211
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/type-search-index.js = 1728553165215
+/Users/adnansamore/Documents/Monopoly/target/reports/apidocs/search.js = 1728553165248

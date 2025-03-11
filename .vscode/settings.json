@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "hello"
+    ],
+    "java.project.referencedLibraries": [
+        "algs4.jar"
+    ]
+}

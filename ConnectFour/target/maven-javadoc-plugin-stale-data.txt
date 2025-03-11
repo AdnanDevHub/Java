@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'/Users/adnansamore/Documents/Python/ConnectFour/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ConnectFour 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ConnectFour 1.0-SNAPSHOT API'
+ConnectFour
+/Users/adnansamore/Documents/Python/ConnectFour/src/main/java/.DS_Store = 1731547654492
+/Users/adnansamore/Documents/Python/ConnectFour/src/main/java = 1731547654492
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/tag-search-index.js = 1731579213461
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/overview-tree.html = 1731579213441
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/module-search-index.js = 1731579213458
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/index.html = 1731579213482
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/package-search-index.js = 1731579213459
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/link.svg = 1731579213516
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/index-all.html = 1731579213477
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/allpackages-index.html = 1731579213458
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/member-search-index.js = 1731579213460
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/copy.svg = 1731579213515
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/script.js = 1731579213514
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/stylesheet.css = 1731579213513
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/search-page.js = 1731579213521
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/help-doc.html = 1731579213486
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/element-list = 1731579213398
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/search.html = 1731579213480
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/allclasses-index.html = 1731579213455
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/type-search-index.js = 1731579213460
+/Users/adnansamore/Documents/Python/ConnectFour/target/reports/apidocs/search.js = 1731579213519

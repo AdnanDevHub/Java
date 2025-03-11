@@ -1,0 +1,5 @@
+How do we create and abstract class in Java?~By using the abstract keyword: public abstract class SomeClass.
+What is an abstract method?~A method without a body (implementation).
+What are some primitive types in Java?~int, double, boolean, char
+What language was Java most inspired by?~C++
+How does a foreach loop that loops through an ArrayList of Strings look like in Java?~for (String s : names) {}

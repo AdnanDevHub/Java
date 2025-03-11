@@ -1,0 +1,15 @@
+5
+Property
+Service 2000
+Lucky 500
+Property
+Service 3000
+3
+Adnan Greedy
+Hammad Careful
+Ali Tactical
+3
+1 1 3
+5 3 3
+4 3 3
+

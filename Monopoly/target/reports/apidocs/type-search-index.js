@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.monopoly.monopoly","l":"Game"},{"p":"com.monopoly.monopoly","l":"Lucky"},{"p":"com.monopoly.monopoly","l":"Monopoly"},{"p":"com.monopoly.monopoly","l":"Player"},{"p":"com.monopoly.monopoly","l":"Service"}];updateSearchResults();
